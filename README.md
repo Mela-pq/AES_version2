@@ -13,7 +13,7 @@ prueba de resultados
  
  Parte 2 
  
- En la parte 2 se realiza el remplaza los gytes ingresados por unos nuevos deacuerdo la tabla S_BOX.
+ En la parte 2 se realiza el remplaza los bytes ingresados por unos nuevos deacuerdo la tabla S_BOX.
  
  <img width="168" height="68" alt="image" src="https://github.com/user-attachments/assets/88431b73-9318-4668-afb0-06b0cd137b1b" />
  
@@ -37,6 +37,7 @@ prueba de resultados
 
 
  
+
 
 
 
