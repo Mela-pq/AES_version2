@@ -18,7 +18,7 @@ def add_round_key(A, B):
         # len(A[0]) nos da el número de columnas
         for j in range(len(A[0])):
             
-            # --- LA OPERACIÓN XOR (^) ---
+            #  LA OPERACIÓN XOR (^) 
             # En criptografía simétrica, el XOR es el rey.
             # Se compara el bit del dato con el bit de la llave.
             # Si son diferentes da 1, si son iguales da 0.
